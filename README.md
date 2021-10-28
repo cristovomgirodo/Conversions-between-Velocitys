@@ -10,9 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # **[Instructions for use]**
-# The file ALGCONBUNVELOCID.PY will run ConvUnidVelocity.py module. 
 
-# Conversion of Mph to Kph.
+# --[Warning!]--
+# After download the files: ALGCONBUNVELOCID.PY and ConvUnidVelocity.py run only the file ALGCONBUNVELOCID.PY.
+# The file ALGCONBUNVELOCID.PY will run the ConvUnidVelocity.py module.
+
+
+# 1.) Conversion of Mph to Kph.
 
 Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
 [GCC 9.3.0] on linux
@@ -64,7 +68,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
       
       
-  # Conversion of Kph to Fts.
+  # 2.) Conversion of Kph to Fts.
       
                         ====================================
 			* [ALGORÍTHM: ALGCONBUNVELOCID.PY] *
