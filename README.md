@@ -19,7 +19,7 @@ Python 3.8.10 (default, Sep 28 2021, 16:10:42)
 Type "help", "copyright", "credits" or "license()" for more information.
 
 
-      ====================================
+                        ====================================
 			* [ALGORÍTHM: ALGCONBUNVELOCID.PY] *
 			====================================
 
@@ -66,7 +66,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
       
   # Conversion of Kph to Fts.
       
-      ====================================
+                        ====================================
 			* [ALGORÍTHM: ALGCONBUNVELOCID.PY] *
 			====================================
 
