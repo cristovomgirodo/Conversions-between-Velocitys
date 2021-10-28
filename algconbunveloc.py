@@ -1,7 +1,7 @@
 #############################################################################
 #
 # The [Algoríthm: algconbunveloc.py] will calculus the value of the velocity
-# nas Unidades: [Mph] ou [Kph] ou [Mps] ou [foot/s].
+# nas Unidades: [Mph] ou [Kph] ou [Mps] ou [Fts].
 # Developed by Isabelle G. Girodo -- Version: 1.0
 # Data: 28/10/2020
 #
