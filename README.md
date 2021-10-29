@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 # In any Linux operating system, open only the file ALGCONBUNVELOCID.PY using the editor IDLE and after give a click in guides: Run ==> Run module and follow the   instructions into the display. If use the Terminal type: $ python3 algconbunveloc.py.   
 
-# When the file ALGCONBUNVELOCID.PY begin type an only option: [1] or [2] or [3] or [4]. If type any diffent number see the 3.) example below.
+# When the file ALGCONBUNVELOCID.PY begin type an only option: [1] or [2] or [3] or [4]. If type any different number see the 3.) example below.
 
 # 1.) Conversion of Mph to Kph.
 
