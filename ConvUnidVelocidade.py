@@ -1,7 +1,7 @@
 #
 # The ConvUnidVelocidade.py module 
 # Developed by Isabelle G. Girodo
-# Data: 28/10/2020
+# Date: 20201028
 # 
 
 import math
