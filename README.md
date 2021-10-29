@@ -117,7 +117,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
 
-# 3.) Different option when the user type number bigger than 4.
+# 3.) Different option when the user type number bigger than 4 or smaller than 1.
 
                         ====================================
 			* [ALGORÍTHM: ALGCONBUNVELOCID.PY] *
