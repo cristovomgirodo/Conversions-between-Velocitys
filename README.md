@@ -10,10 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # **[Instructions for use]**
-
+# The file ALGCONBUNVELOCID.PY will run into the Windows operating system. Copy the files ALGCONBUNVELOCID.PY and ConvUnidVelocity.py to any directory. After give # two clicks in file ALGCONBUNVELOCID.PY and follow the instructions into the display. 
 # --[Warning!]--
 # After download the files: ALGCONBUNVELOCID.PY and ConvUnidVelocity.py run only the file ALGCONBUNVELOCID.PY.
-# The file ALGCONBUNVELOCID.PY will run the ConvUnidVelocity.py module.
+# The file ALGCONBUNVELOCID.PY will run the ConvUnidVelocity.py module. The program will not run using the version: 2 of the Python interpreter.
+# 
+# In any Linux operating system, open only the file ALGCONBUNVELOCID.PY using the editor IDLE and after give a click in guides: Run ==> Run module and follow the # instructions into the display. If use the Terminal type: $ python3 algconbunveloc.py.   
 
 
 # 1.) Conversion of Mph to Kph.
