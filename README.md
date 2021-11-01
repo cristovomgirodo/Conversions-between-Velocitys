@@ -19,6 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 # When the file ALGCONBUNVELOCID.PY begin type an only option: [1] or [2] or [3] or [4]. If type any different number see the 3.) example below.
 
+# In Version: 1.1 (stable) the code into the definition enterData() function was update to avert any user type an string to the coefficients.
+# For example see the [coefficient]:  coeffic = i(string) is not let use.
+
 # 1.) Conversion of Mph to Kph.
 
 Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
@@ -153,3 +156,58 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
+			
+# 4.) Using the new version: 1.1 
+
+                        ====================================
+			* [ALGORÍTHM: ALGCONBUNVELOCID.PY] *
+			====================================
+
+
+	ºº[ DEFINITION OF THE VARIABLES GETED IN RESULT ]ºº
+
+	--[Mph]: Mile per hour
+	--[Kph]: Kilometer per hour
+	--[Mps]: Meter per second
+	--[Fts]: Foot per second
+
+
+	<<[ INSTRUCTIONS FOR USE ]>>
+
+	- If the [Velocity] will calculed in [Mile per hour] key [1]
+	- If the [Velocity] will calculed in [Kilometer per hour] key [2]
+	- If the [Velocity] will calculed in [Meter per second]key [3]
+	- If the [Velocity] will calculed in [Foot per second]key [4]
+
+	§ What is the [previous numerical option] that will be used? i
+	    ////
+	    º<º [Warning!]: invalid literal for int() with base 10: 'i'
+	    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]
+
+
+	§ What is the [previous numerical option] that will be used? 1
+	    **[The typed number]: 1 is a [valid float number!]
+]
+
+
+		--[VELOCITY CALCULED IS IN MILE PER HOUR(Mph)]--
+
+	+ If the [Velocity Unit] is given in [Kph] key: [k] or [K].
+	+ If the [Velocity Unit] is given in [Mps] key: [m] or [M].
+	+ If the [Velocity Unit] is given in [Fts] key: [f] or [F].
+
+	<> Select a only [previous variable] of [Velocity Unit] given in problem? F
+
+	@ Give the new [numerical] value of the [velocity] without write
+	  the [Foot per second(Fts)] Unit? 187.65
+
+	* The [Velocity] is: 127.94     Mph
+
+
+			 ////
+			 º<º . . .[END PROGRAM -- OK!]. . .
+			 \-/
+
+
+			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
+
