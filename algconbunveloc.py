@@ -1,9 +1,9 @@
 #############################################################################
 #
 # The [Algoríthm: algconbunveloc.py] will calculus the value of the velocity
-# between the Units: [Mph] or [Kph] or [Mps] or [Fts].
-# Developed by Isabelle G. Girodo -- Version: 1.0
-# Date: 20201028
+# nas Unidades: [Mph] ou [Kph] ou [Mps] ou [foot/s].
+# Developed by Isabelle G. Girodo -- Version: 1.1
+# Data: 20211101
 #
 #############################################################################
 
@@ -66,7 +66,18 @@ def View():
     print("\t-_- [ USE THE PROGRAM: ALGCONBUNVELOC.PY AGAIN -- OK! ]\n")
     return
 
-number = int(input("\n\t§ What is the [previous numerical option] that will be used? "))
+def introduce():
+            while True:
+                try:
+                    coeffic = int(input("\n\t§ What is the [previous numerical option] that will be used? "))
+                    print('\t    **[The typed number]:',coeffic,'is a [valid float number!]\n]')
+                    return coeffic
+                except ValueError as err:
+                    print('\t    ////')
+                    print('\t    º<º [Warning!]:',err)
+                    print('\t    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]\n')   
+
+number = introduce()
 
 if number == 1:
     print("\n\n\t\t--[VELOCITY CALCULED IS IN MILE PER HOUR(Mph)]--\n")
@@ -148,6 +159,9 @@ print("\t\t\t \-/")
 
 input("\n\n\t\t\t. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .\n")
     
+
+
+      
 
 
       
