@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## **[Instructions for use]**
+
 **The file ALGCONBUNVELOCID.PY** will run into the *Windows operating system* as too in any *Linux operating system*. The files ALGCONBUNVELOCID.PY and ConvUnidVelocity.py already are in my repository to use. After download in my repository give *two clicks* in file ALGCONBUNVELOCID.PY and follow the **instructions** into the display.
 
 ### --[Warning!]--
@@ -33,14 +34,14 @@ $ python3 algconbunveloc.py
 
 ##1.) Conversion of Mph to Kph.
 
-####Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
-####[GCC 9.3.0] on linux
-####Type "help", "copyright", "credits" or "license()" for more information.
+**Python 3.8.10 (default, Sep 28 2021, 16:10:42)** 
+**[GCC 9.3.0] on linux**
+**Type "help", "copyright", "credits" or "license()" for more information.**
 
 
-		**====================================**
-		  **[ALGORÍTHM: ALGCONBUNVELOCID.PY]**
-		**====================================**
+		====================================
+		 *[ALGORÍTHM: ALGCONBUNVELOCID.PY]*
+		====================================
 
 
 	ºº[ DEFINITION OF THE VARIABLES GETED IN RESULT ]ºº
