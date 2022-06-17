@@ -27,10 +27,10 @@ If use the **Terminal** type:
 ```
 $ python3 algconbunveloc.py
 ```
-### When the file ALGCONBUNVELOCID.PY begin type an only option: [1] or [2] or [3] or [4]. If type any different number see the 3.) example below.
+**When the file ALGCONBUNVELOCID.PY begin type an only option: [1] or [2] or [3] or [4]. If type any different number see the 3.) example below.**
 
-### In *Version: 1.1 (stable)* the *code* into *the definition enterData() function* was update to avert any user type an string to the coefficients.
-### For example see the [coefficient]:  *coeffic = i(string)* is not let use.
+**In *Version: 1.1 (stable)* the *code* into *the definition enterData() function* was update to avert any user type an string to the coefficients.**
+**For example see *the [coefficient]*:  *coeffic = i(string)* is not let use.**
 
 ### 1.) Conversion of Mph to Kph.
 
