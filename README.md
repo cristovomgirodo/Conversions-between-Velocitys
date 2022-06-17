@@ -29,14 +29,14 @@ $ python3 algconbunveloc.py
 ```
 ### When the file ALGCONBUNVELOCID.PY begin type an only option: [1] or [2] or [3] or [4]. If type any different number see the 3.) example below.
 
-### In Version: 1.1 (stable) the code into the definition enterData() function was update to avert any user type an string to the coefficients.
+### In *Version: 1.1 (stable)* the *code* into *the definition enterData() function* was update to avert any user type an string to the coefficients.
 ### For example see the [coefficient]:  *coeffic = i(string)* is not let use.
 
-##1.) Conversion of Mph to Kph.
+### 1.) Conversion of Mph to Kph.
 
-**Python 3.8.10 (default, Sep 28 2021, 16:10:42)** 
-**[GCC 9.3.0] on linux**
-**Type "help", "copyright", "credits" or "license()" for more information.**
+#### Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
+#### [GCC 9.3.0] on linux
+#### Type "help", "copyright", "credits" or "license()" for more information.**
 
 
 		====================================
@@ -84,11 +84,11 @@ $ python3 algconbunveloc.py
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
       
       
-## 2.) Conversion of Kph to Fts.
+### 2.) Conversion of Kph to Fts.
       
-		**====================================**
-		  **[ALGORÍTHM: ALGCONBUNVELOCID.PY]**
-		**====================================**
+		====================================
+		 *[ALGORÍTHM: ALGCONBUNVELOCID.PY]*
+		====================================
 
 
 	ºº[ DEFINITION OF THE VARIABLES GETED IN RESULT ]ºº
@@ -130,11 +130,11 @@ $ python3 algconbunveloc.py
 
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
 
-## 3.) Different option when the user type number bigger than 4 or smaller than 1.
+### 3.) Different option when the user type number bigger than 4 or smaller than 1.
 
-		**====================================**
-		  **[ALGORÍTHM: ALGCONBUNVELOCID.PY]**
-		**====================================**
+		====================================
+		 *[ALGORÍTHM: ALGCONBUNVELOCID.PY]*
+		====================================
 
 
 	ºº[ DEFINITION OF THE VARIABLES GETED IN RESULT ]ºº
@@ -159,7 +159,6 @@ $ python3 algconbunveloc.py
 	-_- [ USE THE PROGRAM: ALGCONBUNVELOC.PY AGAIN -- OK! ]
 
 
-
 			 ////
 			 º<º . . .[END PROGRAM -- OK!]. . .
 			 \-/
@@ -167,11 +166,11 @@ $ python3 algconbunveloc.py
 
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
 			
-## 4.) Using the new version: 1.1 
+### 4.) Using the new version: 1.1 
 
-		**====================================**
-		  **[ALGORÍTHM: ALGCONBUNVELOCID.PY]**
-		**====================================**
+		====================================
+		 *[ALGORÍTHM: ALGCONBUNVELOCID.PY]*
+		====================================
 
 
 	ºº[ DEFINITION OF THE VARIABLES GETED IN RESULT ]ºº
@@ -198,7 +197,6 @@ $ python3 algconbunveloc.py
 	§ What is the [previous numerical option] that will be used? 1
 	    **[The typed number]: 1 is a [valid float number!]
 ]
-
 
 		--[VELOCITY CALCULED IS IN MILE PER HOUR(Mph)]--
 
