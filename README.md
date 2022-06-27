@@ -221,7 +221,7 @@ $ python3 algconbunveloc.py
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
 			
 
-** As new owner of this repository update the informations with the presentation of new files:**
+**As new owner of this repository update the informations with the presentation of new files:**
 
 ```
 speedEquationsdevelop.pdf
