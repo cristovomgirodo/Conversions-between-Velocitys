@@ -219,4 +219,18 @@ $ python3 algconbunveloc.py
 
 
 			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
+			
 
+** As new owner of this repository update the informations with the presentation of new files:**
+
+```
+speedEquationsdevelop.pdf
+and
+HP35sCode.pdf
+```
+
+**As open the file speedEquationsdevelop.pdf all of the GitHub will know the *origins* of as been determined all the equations.** Is presented a *deduction math*. 
+ 
+**The HP35sCode.pdf present the code and the readme of as use the program(S) after was have typed into the *HP35s Scientific calculator*.** This program(S) do all the *conversions* between the *Speeds Units: Mph, Kph, Mps, and Fts* of the same manner as the file ALGCONBUNVELOCID.PY.
+
+##### Cristovom A. Girodo
