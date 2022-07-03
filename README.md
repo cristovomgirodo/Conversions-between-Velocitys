@@ -43,7 +43,7 @@ After follow typing:
 ```
 C:\Users\User name\Desktop>python algconbunveloc.py
 ```
-*[Note]: In the Windows 7 operating system the user will duty typed: [python algconbunveloc.py] and no [python3 algconbunveloc.py]. was be the last version: 3.8.6 interpreter installed in this system. Into the Windows 10 the users will duty test [python algconbunveloc.py] or [python3 algconbunveloc.py]. Into the [Linux operating system] do not use of the command: [python algconbunveloc.py] of accord as showed below.*
+*[Note]: In the Windows 7 operating system the user will duty typed: [python algconbunveloc.py] and no [python3 algconbunveloc.py]. was be the last version: 3.8.6 interpreter installed in this system. Into the Windows 10 the users will duty test [python algconbunveloc.py] or [python3 algconbunveloc.py]. Into the [Linux operating system] do not use of the command: [python algconbunveloc.py].*
   
 4. The last option: After download of the repository give **two clicks** in file **algconbunveloc.py** and follow the **instructions** into the display.
 
