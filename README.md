@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 ## [Instructions for use]
 
-**The file algconbunveloc.py** will run into the *Windows operating system* as too in any *Linux operating system*. The files algconbunveloc.py and ConvUnidVelocity.py already are in my repository to use.
+**The file algconbunveloc.py** will run into the **Windows operating system** as too in any **Linux operating system**. The files algconbunveloc.py and ConvUnidVelocity.py already are in my repository to use.
  
-1. In the *Windows operating system* before execute the file algconbunveloc.py the user will duty do setting in screen size: "Prompt of Command" follow the instructions below: 
+1. In the **Windows operating system** before execute the file algconbunveloc.py the user will duty do setting in screen size: "Prompt of Command" follow the instructions below: 
 
 [1.1] Click in start button and access the Python directory presented in the menu. After click in the Launches Python 3.8 (64-bit) interpreter. When the screen open click with the right button in the title slash and wait the menu open. Follow keyed in the [property] menu guide to open an new form.
 
