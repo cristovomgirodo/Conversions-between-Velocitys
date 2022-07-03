@@ -49,7 +49,7 @@ C:\Users\User name\Desktop>python algconbunveloc.py
 
 *[Note]: Prior been showed 4(four) manners of execute file **algconbunveloc.py** using Windows 7 operating system.*
 
-#### --[Warning!]-- The file algconbunveloc.py and ConvUnidVelocity.py will duty reside into the Desktop directory.
+##### --[Warning!]-- The file algconbunveloc.py and ConvUnidVelocity.py will duty reside into the Desktop directory.
 
 **After download the files: algconbunveloc.py and ConvUnidVelocity.py run only the file algconbunveloc.py.**
 **The file algconbunveloc.py will run the ConvUnidVelocity.py module. The program will not run using the version: 2 of the Python interpreter**
@@ -65,7 +65,7 @@ If use the **Terminal** type:
 ```
 $ python3 algconbunveloc.py
 ```
-#### --[Warning!]-- If any user given [two clicks] in the file algconbunveloc.py, the algconbunveloc.py program will not execute -- OK! 
+##### --[Warning!]-- If any user given [two clicks] in the file algconbunveloc.py, the algconbunveloc.py program will not execute -- OK! 
 
 **When the file algconbunveloc.py begin type an only option: [1] or [2] or [3] or [4]. If type any different number see the 3.) example below.**
 
