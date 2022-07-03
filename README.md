@@ -43,17 +43,16 @@ After follow typing:
 ```
 C:\Users\User name\Desktop>python algconbunveloc.py
 ```
-*[Note]: In the Windows 7 operating system the user will duty typed: [python algconbunveloc.py] and no [python3 algconbunveloc.py]. was be the last version: 3.8.6 interpreter installed in this system. Into the Windows 10 the users will duty test [python algconbunveloc.py] or [python3 algconbunveloc.py]. Into the [Linux operating system] do not use of the command: [python algconbunveloc.py].*
+*[Note]: In the Windows 7 operating system the user will duty typed: [python algconbunveloc.py] and no [python3 algconbunveloc.py]. been the last version: 3.8.6 Python interpreter installed in this system. Into the Windows 10 the users will duty test [python algconbunveloc.py] or [python3 algconbunveloc.py]. Into the [Linux operating system] do not use of the command: [python algconbunveloc.py].*
   
 4. The last option: After download of the repository give **two clicks** in file **algconbunveloc.py** and follow the **instructions** into the display.
 
-*[Note]: Prior been showed 4(four) manners of execute file **algconbunveloc.py** using Windows 7 operating system.*
+*[Note]: Prior been showed 4(four) differents manners possibles of execute file **algconbunveloc.py** using Windows 7 operating system.*
 
 ##### --[Warning!]-- The file algconbunveloc.py and ConvUnidVelocity.py will duty reside into the Desktop directory.
 
 **After download the files: algconbunveloc.py and ConvUnidVelocity.py run only the file algconbunveloc.py.**
 **The file algconbunveloc.py will run the ConvUnidVelocity.py module. The program will not run using the version: 2 of the Python interpreter**
-
 
 **In any [Linux operating system]**, open only the file algconbunveloc.py using the editor Pytho3-IDLE and after give a click in guides:
 ```
@@ -65,6 +64,7 @@ If use the **Terminal** type:
 ```
 $ python3 algconbunveloc.py
 ```
+
 ##### --[Warning!]-- If any user given [two clicks] in the file algconbunveloc.py, the algconbunveloc.py program will not execute -- OK! 
 
 **When the file algconbunveloc.py begin type an only option: [1] or [2] or [3] or [4]. If type any different number see the 3.) example below.**
@@ -271,6 +271,6 @@ HP35sCode.pdf
 
 **As open the file speedEquationsdevelop.pdf all of the GitHub will know the *origins* of as been determined all the equations.** Is presented a *deduction math*. 
  
-**The file HP35sCode.pdf present the code and the readme of as use the program(S) after was have typed into the *HP35s Scientific calculator*.** This program(S) do all the *conversions* between the *Speeds Units: Mph, Kph, Mps, and Fts* of the same manner as the file ALGCONBUNVELOCID.PY.
+**The file HP35sCode.pdf present the code and the readme of as use the program(S) after was have typed into the *HP35s Scientific calculator*.** This program(S) do all the *conversions* between the *Speeds Units: Mph, Kph, Mps, and Fts* of the same manner as the file algconbunveloc.py.
 
 ###### Cristovom A. Girodo
