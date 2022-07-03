@@ -32,7 +32,7 @@ With the IDLE 3.8 opened follow keying into the [guides]:
 ```
 Run → Rum Module
 ```
-The file algconbunveloc.py will execute in the **Python Interactive**. Follow the steps of the programm to [Data Enter] and find the [Solution]. Or use the next step 3.
+The file algconbunveloc.py will execute in the **Python Interactive**. Follow the steps of the program to [Data Enter] and find the [Solution]. Or use the next step 3.
 
 3. Open the screen: "Prompt of Command" and type the followings [commands]:
 ```
