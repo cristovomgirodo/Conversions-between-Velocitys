@@ -210,7 +210,7 @@ $ python3 algconbunveloc.py
 ### 4.) Using the new version: 1.1 
 
 		====================================
-		 *[ALGORÍTHM: ALGCONBUNVELOCID.PY]*
+		* [ALGORÍTHM: ALGCONBUNVELOCID.PY] *
 		====================================
 
 
@@ -228,16 +228,15 @@ $ python3 algconbunveloc.py
 	- If the [Velocity] will calculed in [Kilometer per hour] key [2]
 	- If the [Velocity] will calculed in [Meter per second]key [3]
 	- If the [Velocity] will calculed in [Foot per second]key [4]
+	(º>º) Provide the [new] value? i
+	    ###
+	    º>º [Warning!]: invalid literal for int() with base 10: 'i'
+	    \~/ [TYPE AN NEW POSITIVE INTEGER NUMBER IN NEXT INSTRUCTION -- OK!]
 
-	§ What is the [previous numerical option] that will be used? i
-	    ////
-	    º<º [Warning!]: invalid literal for int() with base 10: 'i'
-	    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]
+	(º>º) Provide the [new] value? 1
+	    **[The typed number]: 1 is a [valid float number!]**
 
 
-	§ What is the [previous numerical option] that will be used? 1
-	    **[The typed number]: 1 is a [valid float number!]
-]
 
 		--[VELOCITY CALCULED IS IN MILE PER HOUR(Mph)]--
 
@@ -248,7 +247,10 @@ $ python3 algconbunveloc.py
 	<> Select a only [previous variable] of [Velocity Unit] given in problem? F
 
 	@ Give the new [numerical] value of the [velocity] without write
-	  the [Foot per second(Fts)] Unit? 187.65
+	  the [Foot per second(Fts)] Unit? 
+	(ª<ª) Enter the [new] value? 187.65
+	**[ [The typed number]: 187.65 is a [valid positive float number!] ]**
+
 
 	* The [Velocity] is: 127.94     Mph
 
@@ -258,8 +260,82 @@ $ python3 algconbunveloc.py
 			 \-/
 
 
-			. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
-			
+		. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
+
+### 5.) Using the new version: 1.2(Stable)
+```
+        	====================================
+		* [ALGORÍTHM: ALGCONBUNVELOCID.PY] *
+		====================================
+```
+
+
+	ºº[ DEFINITION OF THE VARIABLES GETED IN RESULT ]ºº
+
+	--[Mph]: Mile per hour
+	--[Kph]: Kilometer per hour
+	--[Mps]: Meter per second
+	--[Fts]: Foot per second
+
+
+	<<[ INSTRUCTIONS FOR USE ]>>
+
+	- If the [Velocity] will calculed in [Mile per hour] key [1]
+	- If the [Velocity] will calculed in [Kilometer per hour] key [2]
+	- If the [Velocity] will calculed in [Meter per second]key [3]
+	- If the [Velocity] will calculed in [Foot per second]key [4]
+	(º>º) Provide the [new] value? -3
+```
+	*[ NO TYPE AN [NEGATIVE INTEGER NUMBER] or equal [ZERO]--Ok! ]*
+
+	(º>º) Provide the [new] value? @
+	    ###
+	    º>º [Warning!]: invalid literal for int() with base 10: '@'
+	    \~/ [TYPE AN NEW POSITIVE INTEGER NUMBER IN NEXT INSTRUCTION -- OK!]
+
+	(º>º) Provide the [new] value? 4
+	    **[The typed number]: 4 is a [valid float number!]**
+```
+
+		--[VELOCITY CALCULED IN FOOT PER SECOND(Fts)]--
+
+	+ If the [Velocity Unit] is given in [Mph] key: [i] or [I].
+	+ If the [Velocity Unit] is given in [Kph] key: [k] or [K].
+	+ If the [Velocity Unit] is given in [Mps] key: [m] or [M].
+
+	<> Select a only [previous variable] of [Velocity Unit] given in problem? I
+
+	@ Enter with the new [numerical] value of the [velocity] without write
+	  the [Mile per hour(Mph)] Unit? 
+	(ª<ª) Enter the [new] value? -57.25
+```
+	*[ NO TYPE AN [NEGATIVE FLOAT NUMBER] or equal [ZERO]--Ok! ]*
+
+	(ª<ª) Enter the [new] value? &
+	   _/§\_
+	    @<@ [Warning!]: could not convert string to float: '&'
+	    \~/ [ TYPE AN [NEW POSITIVE FLOAT NUMBER ]
+	        [ IN NEXT INSTRUCTION -- OK! ]
+```
+	(ª<ª) Enter the [new] value? 118.93
+	**[ [The typed number]: 118.93 is a [valid positive float number!] ]**
+
+
+	* The [Velocity] is: 174.43     fts
+
+
+			 ////
+			 º<º . . .[END PROGRAM -- OK!]. . .
+			 \-/
+
+
+		. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .			
+
+```
+Note: 
+
+Now with the new version: 1.2(Stable) the user will know that only is possible type [positive integer number] to options: [1] or [2] or [3] or [4] as too will duty type any value[positive float number] to the speed unit. This will give the all users high security of data enter when type news values to any [option] and [speed] before of any conversion.
+```
 
 **As new owner of this repository update the informations with the presentation of new files:**
 
@@ -273,4 +349,11 @@ HP35sCode.pdf
  
 **The file HP35sCode.pdf present the code and the readme of as use the program(S) after was have typed into the *HP35s Scientific calculator*.** This program(S) do all the *conversions* between the *Speeds Units: Mph, Kph, Mps, and Fts* of the same manner as the file algconbunveloc.py.
 
-###### Cristovom A. Girodo
+**[Warning]:**
+
+The **version: 1.1** of the files: algconbunveloc.py and ConvUnidVelocity.py was deleted because of new update. 
+Will be put the new **version: 1.2(Stable)** of the files: **algconbunveloc.py** and **ConvUnidVelocity.py** in the *repository*.
+
+Welcome the all users of the GitHub to the use of the **new version: 1.2(Stable)** of the files: **algconbunveloc.py** and **ConvUnidVelocity.py**.
+
+###### Re-edited by Cristovom A. Girodo in 20221001.
