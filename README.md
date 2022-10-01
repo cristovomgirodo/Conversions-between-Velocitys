@@ -331,11 +331,10 @@ $ python3 algconbunveloc.py
 
 		. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .			
 
-```
-Note: 
 
-Now with the new version: 1.2(Stable) the user will know that only is possible type [positive integer number] to options: [1] or [2] or [3] or [4] as too will duty type any value[positive float number] to the speed unit. This will give the all users high security of data enter when type news values to any [option] and [speed] before of any conversion.
-```
+*Note:*
+
+**Now with the new version: 1.2(Stable) the user will know that only is possible type [positive integer number] to options: [1] or [2] or [3] or [4] as too will duty type any value[positive float number] to the speed unit. This will give the all users high security of data enter when type news values to any [option] and [speed] before of any conversion.**
 
 **As new owner of this repository update the informations with the presentation of new files:**
 
