@@ -261,6 +261,19 @@ $ python3 algconbunveloc.py
 
 
 		. . .KEY [ENTER] TO EXIT OF THE PROGRAM!. . .
+		
+
+**As new owner of this repository update the informations with the presentation of new files:**
+
+```
+speedEquationsdevelop.pdf
+and
+HP35sCode.pdf
+```
+
+**As open the file speedEquationsdevelop.pdf all of the GitHub will know the *origins* of as been determined all the equations.** Is presented a *deduction math*. 
+ 
+**The file HP35sCode.pdf present the code and the readme of as use the program(S) after was have typed into the *HP35s Scientific calculator*.** This program(S) do all the *conversions* between the *Speeds Units: Mph, Kph, Mps, and Fts* of the same manner as the file algconbunveloc.py.
 
 ### 5.) Using the new version: 1.2(Stable)
 ```
@@ -335,18 +348,6 @@ $ python3 algconbunveloc.py
 *Note:*
 
 **Now with the new version: 1.2(Stable) the user will know that only is possible type [positive integer number] to options: [1] or [2] or [3] or [4] as too will duty type any value[positive float number] to the speed unit. This will give the all users high security of data enter when type news values to any [option] and [speed] before of any conversion.**
-
-**As new owner of this repository update the informations with the presentation of new files:**
-
-```
-speedEquationsdevelop.pdf
-and
-HP35sCode.pdf
-```
-
-**As open the file speedEquationsdevelop.pdf all of the GitHub will know the *origins* of as been determined all the equations.** Is presented a *deduction math*. 
- 
-**The file HP35sCode.pdf present the code and the readme of as use the program(S) after was have typed into the *HP35s Scientific calculator*.** This program(S) do all the *conversions* between the *Speeds Units: Mph, Kph, Mps, and Fts* of the same manner as the file algconbunveloc.py.
 
 **[Warning]:**
 
