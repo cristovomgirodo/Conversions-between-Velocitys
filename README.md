@@ -356,4 +356,11 @@ Will be put the new **version: 1.2(Stable)** of the files: **algconbunveloc.py**
 
 Welcome the all users of the GitHub to the use of the **new version: 1.2(Stable)** of the files: **algconbunveloc.py** and **ConvUnidVelocity.py**.
 
-###### Re-edited by Cristovom A. Girodo in 20221001.
+**[Warning!]:**
+
+Introduce here the new **version: 2.0(stable)** of the following files: the **algfindvelocity.py program**, **unidvelocityconvequat module**, *Changelog.md*, and too the **tutorfindvelocity.pdf** which will present instructions of as use the **algfindvelocity.py program**. The *code* of the **algfindvelocity.py program** and **unidvelocityconvequat module** is well different of the **version: 1.2(Stable)** of the files: **algconbunveloc.py** and **ConvUnidVelocity.py** because of *[new]* **Velocity Class** created into the **unidvelocityconvequat module**. Use *only the instructions* of the **tutorfindvelocity.pdf** file in the **algfindvelocity.py program**. All the users of this *repository* are free to continue use the **version: 1.2(Stable)** of the **algconbunveloc.py program** with the initials instructions of this README.md or the *[new]* **algfindvelocity.py program**. The user using the files: **algconbunveloc.py program** or **algfindvelocity.py program** will find always the same result. 
+
+Welcome the *all users* of the GitHub to know and use the *[new]* files: **algfindvelocity.py program**, **unidvelocityconvequat module**, *Changelog.md*, and too the **tutorfindvelocity.pdf**. The Changelog.md introduce the technique of Python programming used in the files: **algconbunveloc.py program** or **algfindvelocity.py program**.
+
+
+###### Re-edited by Cristovom A. Girodo in 20230610.
