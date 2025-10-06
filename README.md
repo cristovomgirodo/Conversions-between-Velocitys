@@ -362,5 +362,7 @@ Introduce here the new **version: 2.0(stable)** of the following files: the **al
 
 Welcome the *all users* of the GitHub to know and use the *[new]* files: **algfindvelocity.py program**, **unidvelocityconvequat module**, *Changelog.md*, and too the **tutorfindvelocity.pdf**. The Changelog.md introduce the technique of Python programming used in the files: **algconbunveloc.py program** or **algfindvelocity.py program**.
 
+##### [Warning!]: small update in [codes]: ConvUnidVelocidade.py and AlgQuadratic_FirstLevel_Equation.py modules. Was necessary delete the '\' character in codes of the versions: 1.2 and 2.0 because of generate [error] in use of the files: algconbunveloc.py and algfindvelocity.py. All will duty follow using the same examples of the files: README.md and too tutorfindvelocity.pdf. Ok! 
 
-###### Re-edited by Cristovom A. Girodo in 20230610.
+###### Re-edited in 20251006 by Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz” in São Paulo/SP).
+
